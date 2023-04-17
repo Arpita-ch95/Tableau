@@ -1,20 +1,23 @@
-## Analysis of Airbnb Traffic in NYC Areas
+# Analysis of Airbnb Traffic in NYC Areas
 
 This project aims to explore differences in Airbnb traffic in different areas of New York City and identify the factors that contribute to these differences. The data is visualized using several charts and graphs in Tableau.
 
 ## Table of Contents
 Data Source
+
 Technologies Used
+
 Visualizations
+
 Results
 
 ## Data Source
 The data used in this project is sourced from the Inside Airbnb website. The dataset includes information on Airbnb listings in New York City, such as listing prices, neighborhood locations, host information, and user reviews.
 
-# Technologies Used
+## Technologies Used
 This project utilizes Tableau for data visualization and analysis.
 
-# Visualizations
+## Visualizations
 The following charts and graphs were used to visualize the data:
 
 Scatter chart showing the latitudes and longitudes of Airbnb locations in NYC and how the price varies across the city.
